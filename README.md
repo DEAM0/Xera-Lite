@@ -25,6 +25,8 @@ Your server need to met minimal requirements:
 - PHP v5.6 or above.
 - MySQL v5.2 or above.
 - OpenSSL v1.1 or above. 
+- Valid SSL Certificate. 
+> Well using an SSL Certificate is good way to establish a secure connection between end-user and the server. 
 
 ## Contributer
 This build is created, modified and maintained by [Mahtab Hassan](https://github.com/mahtab2003).
